@@ -1,0 +1,9 @@
+# This project is an Excel workbook (.xlsm) with formulas and VBA macros.
+# It does not use Python, so there are no pip packages to install.
+#
+# To run this file, you need:
+#   - Microsoft Excel (2016 or later recommended)
+#   - Macros enabled (this workbook uses VBA)
+#
+# Note: formulas and macros here are Excel/VBA-specific and will not
+# fully recalculate in Google Sheets or LibreOffice Calc without adjustment.
