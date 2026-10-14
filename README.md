@@ -6,8 +6,6 @@
 
 An Excel-based HR compensation engine that turns a single employee master list into individual CTC breakdowns, payslips, appraisal planning, budget simulation and salary benchmarking, all driven by formulas from one editable set of policy assumptions.
 
-> ⚠️ **Before uploading:** this workbook's sample data (`01_Employee_Master` and other tabs) contains named individuals and exact salary figures. If these are real people, **do not upload this file publicly as-is**. Replace the names and CTC values with clearly fictional placeholders (e.g. "Employee A", round numbers) before pushing to GitHub. See [Data Privacy](#-data-privacy) below.
-
 ---
 
 ## 📌 Table of Contents
